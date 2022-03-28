@@ -1,6 +1,6 @@
 # YAML-To-Markdown Assignment 
 
-Write a custom javascript component that parses YAML files and produces Markdown (MD) files. Also make a document to explain your implementation. 
+Write a custom javascript component that parses YAML files and produces Markdown (MD) files. Also write a document to explain your implementation. 
 
 ## YAML 
 
